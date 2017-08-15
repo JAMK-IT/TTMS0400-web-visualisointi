@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://jamk-it.github.io/TTZC0100-johdatus-internet-teknologioihin/
-title: TTZC0100 Johdatus Internet-teknologioihin
+url: https://jamk-it.github.io/TTMS0400-web-visualisointi/
+title: TTMS0400 Web-visualisointi
 email: paavo.nelimarkka@jamk.fi
 author: JAMK-IT
 description: > # "Write an awesome description for your new site here. 
@@ -27,8 +27,8 @@ permalink: pretty
 
 social:
   - title: Course
-    url: https://github.com/JAMK-IT/TTZC0100-johdatus-internet-teknologioihin
+    url: https://github.com/JAMK-IT/TTMS0400-web-visualisointi
     icon: fa fa-github fa-fw
   - title: Asio
-    url: https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTZC0100&knro=&noclose=%20&lan=f
+    url: https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTMS0400&knro=&noclose=%20&lan=f
     icon: fa fa-file fa-fw
