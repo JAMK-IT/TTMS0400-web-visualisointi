@@ -2,15 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-<<<<<<< HEAD
-url: https://github.com/JAMK-IT/TTOS0800-Ohjelmistoprojekti/wiki
-title: Templaattikurssi
-email: your-email@domain.com
-=======
 url: https://jamk-it.github.io/TTMS0400-web-visualisointi/
 title: TTMS0400 Web-visualisointi
 email: paavo.nelimarkka@jamk.fi
->>>>>>> e3d1e6022d0f22c4e7e38529fd07c8e299297009
+
 author: JAMK-IT
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
@@ -32,7 +27,6 @@ permalink: pretty
 # ----------------------- #
 
 social:
-<<<<<<< HEAD
   - title: wiki
     url: https://github.com/JAMK-IT/TTOS0800-Ohjelmistoprojekti/wiki
     icon: fa fa-github fa-fw
@@ -41,11 +35,4 @@ social:
     icon: fa fa-github fa-fw
   - title: asio
     url: https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTOS0800&knro=&noclose=%20&lan=fi
-=======
-  - title: Course
-    url: https://github.com/JAMK-IT/TTMS0400-web-visualisointi
-    icon: fa fa-github fa-fw
-  - title: Asio
-    url: https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTMS0400&knro=&noclose=%20&lan=f
->>>>>>> e3d1e6022d0f22c4e7e38529fd07c8e299297009
-    icon: fa fa-file fa-fw
+
