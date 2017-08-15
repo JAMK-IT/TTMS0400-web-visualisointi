@@ -13,4 +13,4 @@ Koira
 
 
 
-[target_url=https://jamk-it.github.ioTTMS0400-web-visualisointi]
+[target_url=https://jamk-it.github.io/TTMS0400-web-visualisointi]
