@@ -4,7 +4,7 @@
 
 Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
-- [Kurssikuvaus ja arviointi](https://github.com/JAMK-IT/TTZC0100-johdatus-internet-teknologioihin/wiki/kurssikuvaus)
+- [Kurssikuvaus ja arviointi](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/kuvaus-ja-arvostelu)
 - [Kurssin ASIO-kuvaus](https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTMS0400&knro=&noclose=%20&lan=f)
 - [Optima](https://optima.jamk.fi/)
 - [JAMK-IT Slack](https://jamk-it.slack.com) ja sieltä kurssikanava: #ttms0400
