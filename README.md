@@ -18,21 +18,21 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 | Vko | Aiheet | Resurssit | Muut |
 |:--------|:----------:|:-----:|---------|
-| 36 | [Kurssijohdanto]() | [Linkkejä]() | ... |
-| 37 | [...]() | [Linkkejä]() | ... |
-| 38 | [...]() | [Linkkejä]() | ... |
-| 39 | [...]() | [Linkkejä]() | ... |
-| 40 | [...]() | [Linkkejä]() | ... |
-| 41 | [...]() | [Linkkejä]() | ... |
+| 36 | [Kurssijohdanto, GIT, harjoitustyön suunnittelu]() | [Linkkejä]() | [Harkka]() |
+| 37 | [HTML5/CSS3 kertaus]() | [Linkkejä]() | ... |
+| 38 | [Responsiivinen suunnittelu, Flexbox]() | [Linkkejä]() | ... |
+| 39 | [Bootstrap/Foundation]() | [Linkkejä]() | ... |
+| 40 | [SASS/LESS]() | [Linkkejä]() | ... |
+| 41 | []() | [Linkkejä]() | ... |
 | 42 | **Etäopiskeluviikko** | ... | ... |
 | 43 | Puolivälipalaute, ... | [Linkkejä]() | ... |
 | 44 | **Innovaatioviikko** | ... | ... |
 | 45 | [...]() | [Linkkejä]() | ... |
 | 46 | [...]() | [Linkkejä]() | ... |
-| 47 | [...]() | [Linkkejä]() | ... |
-| 48 | [...]() | [Linkkejä]()| ... |
-| 49 | [...]() | [Linkkejä]() | ... |
-| 50 | [...]() | [Linkkejä]() | ... |
+| 47 | [Harjoitustyö-ohjausta]() | [Linkkejä]() | ... |
+| 48 | [Harjoitustyö-ohjausta]() | [Linkkejä]()| ... |
+| 49 | [Harjoitustyö-ohjausta]() | [Linkkejä]() | ... |
+| 50 | [Harjoitustyö-ohjausta]() | [Linkkejä]() | ... |
 | 51 | ... | ... | ... |
 
 **Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
