@@ -16,6 +16,8 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 ## Aikataulu
 
+**HUOM: Aikataulu vasta alustava!**
+
 | Vko | Aiheet | Resurssit | Muut |
 |:--------|:----------:|:-----:|---------|
 | 36 | [Kurssijohdanto, GIT]() | [Linkkejä]() | [Harkka]() |
