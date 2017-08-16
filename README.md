@@ -22,7 +22,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 37 | [HTML5/CSS3 kertaus]() | [Linkkejä]() | ... |
 | 38 | [Responsiivinen suunnittelu, Flexbox]() | [Linkkejä]() | ... |
 | 39 | [Bootstrap/Foundation]() | [Linkkejä]() | ... |
-| 40 | [SASS/LESS]() | [Linkkejä]() | ... |
+| 40 | [Taskrunnerit, SASS/LESS]() | [Linkkejä]() | ... |
 | 41 | []() | [Linkkejä]() | ... |
 | 42 | **Etäopiskeluviikko** | ... | ... |
 | 43 | Puolivälipalaute, ... | [Linkkejä]() | ... |
