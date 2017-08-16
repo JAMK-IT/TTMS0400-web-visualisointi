@@ -18,14 +18,14 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 | Vko | Aiheet | Resurssit | Muut |
 |:--------|:----------:|:-----:|---------|
-| 36 | [Kurssijohdanto, GIT, harjoitustyön suunnittelu]() | [Linkkejä]() | [Harkka]() |
-| 37 | [HTML5/CSS3 kertaus]() | [Linkkejä]() | ... |
+| 36 | [Kurssijohdanto, GIT]() | [Linkkejä]() | [Harkka]() |
+| 37 | [HTML5/CSS3 kertaus, yhteisen harjoitustyön aloitus]() | [Linkkejä]() | ... |
 | 38 | [Responsiivinen suunnittelu, Flexbox]() | [Linkkejä]() | ... |
 | 39 | [Bootstrap/Foundation]() | [Linkkejä]() | ... |
 | 40 | [Taskrunnerit, SASS/LESS]() | [Linkkejä]() | ... |
 | 41 | []() | [Linkkejä]() | ... |
 | 42 | **Etäopiskeluviikko** | ... | ... |
-| 43 | Puolivälipalaute, ... | [Linkkejä]() | ... |
+| 43 | Puolivälipalaute, oman harjoitustyön aloitus | [Linkkejä]() | ... |
 | 44 | **Innovaatioviikko** | ... | ... |
 | 45 | [...]() | [Linkkejä]() | ... |
 | 46 | [...]() | [Linkkejä]() | ... |
