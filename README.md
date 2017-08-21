@@ -29,7 +29,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 41 | [Taskrunnerit, SASS/LESS]() | [Linkkejä]() | ... |
 | 42 | **Etäopiskeluviikko** | ... | ... |
 | 43 | Puolivälipalaute, [oman harjoitustyön aloitus]() | [Linkkejä]() | ... |
-| 44 | **Innovaatioviikko** | ... | ... |
+| 44 | [Vektorigrafiikka verkkosivuilla, Illustrator]() | ... | ... |
 | 45 | [...]() | [Linkkejä]() | ... |
 | 46 | [...]() | [Linkkejä]() | ... |
 | 47 | [Harjoitustyö-ohjausta]() | [Linkkejä]() | ... |
