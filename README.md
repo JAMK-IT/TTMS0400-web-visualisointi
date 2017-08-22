@@ -25,17 +25,17 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 37 | [Semanttinen rakenne](), HTML5/CSS3 kertaus | [Linkkejä]() | ... |
 | 38 | [Responsiivinen suunnittelu ja Mobile First periaate, Flexbox]() | [Linkkejä]() | ... |
 | 39 | [Bootstrap/Foundation]() | [Linkkejä]() | ... |
-| 40 | Yhteisen harjoitustyön työstöä | [Linkkejä]() | ... |
+| 40 | [Responsiivinen grafiikka]() | [Linkkejä]() | ... |
 | 41 | [Taskrunnerit, SASS/LESS]() | [Linkkejä]() | ... |
 | 42 | **Etäopiskeluviikko** | ... | ... |
 | 43 | Puolivälipalaute, [oman harjoitustyön aloitus]() | [Linkkejä]() | ... |
-| 44 | [Vektorigrafiikka verkkosivuilla, Illustrator]() | ... | ... |
-| 45 | [...]() | [Linkkejä]() | ... |
-| 46 | [...]() | [Linkkejä]() | ... |
-| 47 | [Harjoitustyö-ohjausta]() | [Linkkejä]() | ... |
-| 48 | [Harjoitustyö-ohjausta]() | [Linkkejä]()| ... |
-| 49 | [Harjoitustyö-ohjausta]() | [Linkkejä]() | ... |
-| 50 | [Harjoitustyö-ohjausta]() | [Linkkejä]() | ... |
+| 44 | ... | ... | ... |
+| 45 | ... | [Linkkejä]() | ... |
+| 46 | ... | [Linkkejä]() | ... |
+| 47 | ... | [Linkkejä]() | ... |
+| 48 | ... | [Linkkejä]()| ... |
+| 49 | ... | [Linkkejä]() | ... |
+| 50 | ... | [Linkkejä]() | ... |
 | 51 | ... | ... | ... |
 
 **Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
