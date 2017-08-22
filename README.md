@@ -25,13 +25,13 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 37 | [Semanttinen rakenne](), HTML5/CSS3 kertaus, ensipuraisu GITiin | [Linkkejä]() | ... |
 | 38 | [Responsiivinen suunnittelu ja Mobile First periaate, Flexbox]() | [Linkkejä]() | ... |
 | 39 | [Bootstrap/Foundation]() | [Linkkejä]() | ... |
-| 40 | [Responsiivinen grafiikka]() | [Linkkejä]() | ... |
-| 41 | [Taskrunnerit, SASS/LESS]() | [Linkkejä]() | ... |
+| 40 | [CSS-animointi]() | [Linkkejä]() | ... |
+| 41 | [Responsiivinen grafiikka]() | [Linkkejä]() | ... |
 | 42 | **Etäopiskeluviikko** | ... | ... |
 | 43 | Puolivälipalaute, [oman harjoitustyön aloitus]() | [Linkkejä]() | ... |
 | 44 | ... | ... | ... |
-| 45 | ... | [Linkkejä]() | ... |
-| 46 | ... | [Linkkejä]() | ... |
+| 45 | [Taskrunnerit, SASS/LESS]() | [Linkkejä]() | ... |
+| 46 | [jQuery/js-kikkareet]() | [Linkkejä]() | ... |
 | 47 | ... | [Linkkejä]() | ... |
 | 48 | ... | [Linkkejä]()| ... |
 | 49 | ... | [Linkkejä]() | ... |
