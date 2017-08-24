@@ -11,7 +11,9 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 ## Kurssimateriaali
 
-- https://www.w3schools.com
+- https://developer.mozilla.org/en-US/
+  - https://developer.mozilla.org/en-US/docs/Web
+- https://docs.microsoft.com/en-us/microsoft-edge/dev-guide/css
 - https://www.udemy.com/learn-responsive-web-development-from-scratch/
 - https://www.udemy.com/sass-workflow/
 
@@ -21,16 +23,16 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 | Vko | Aiheet | Resurssit | Muut |
 |:--------|:----------:|:-----:|---------|
-| 36 | [Kurssijohdanto, yhteisen harjoitustyön esittely, Github, GIT]() | [Linkkejä]() | [Harkka]() |
-| 37 | [Semanttinen rakenne](), HTML5/CSS3 kertaus, Dev-tools, ensipuraisu GITiin | [Linkkejä]() | ... |
+| 36 | [Kurssijohdanto, yhteisen harjoitustyön esittely, GitHub, Git]() | [Linkkejä]() | [Harkka]() |
+| 37 | [Semanttinen rakenne](), HTML5/CSS3 kertaus, Dev-tools, Git ensipuraisu | [Linkkejä]() | ... |
 | 38 | [Responsiivinen suunnittelu ja Mobile First periaate, Flexbox]() | [Linkkejä]() | ... |
 | 39 | [CSS-animointi]()  | [Linkkejä]() | ... |
 | 40 | [Bootstrap]() | [Linkkejä]() | ... |
 | 41 | [Bootstrap]() | [Linkkejä]() | ... |
 | 42 | **Etäopiskeluviikko** | ... | ... |
 | 43 | [Responsiivinen grafiikka](), puolivälipalaute, [oman harjoitustyön aloitus]() | [Linkkejä]() | ... |
-| 44 | [jQuery/js-kikkareet]() | ... | ... |
-| 45 | [Taskrunnerit, SASS/LESS]() | [Linkkejä]() | ... |
+| 44 | [jQuery/JS-kikkareet]() | ... | ... |
+| 45 | [Taskrunnerit, Sass/Less]() | [Linkkejä]() | ... |
 | 46 | ... | [Linkkejä]() | ... |
 | 47 | ... | [Linkkejä]() | ... |
 | 48 | ... | [Linkkejä]()| ... |
@@ -38,4 +40,4 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 50 | ... | [Linkkejä]() | ... |
 | 51 | ... | ... | ... |
 
-**Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
+**Hae ehdottomasti GitHubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
