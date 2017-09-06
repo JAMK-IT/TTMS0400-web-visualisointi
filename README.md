@@ -12,6 +12,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 - https://www.w3schools.com
 - https://www.udemy.com/learn-responsive-web-development-from-scratch/
 - https://www.udemy.com/sass-workflow/
+- ja lisää tulee...
 
 ## Aikataulu
 
