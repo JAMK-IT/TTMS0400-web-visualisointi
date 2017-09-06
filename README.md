@@ -1,7 +1,5 @@
 # Web-visualisointi - TTMS0400
 
-![](https://cdn.pixabay.com/photo/2017/06/16/07/26/under-construction-2408062_960_720.png)
-
 Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 - [Kurssikuvaus ja arviointi](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/kuvaus-ja-arvostelu)
