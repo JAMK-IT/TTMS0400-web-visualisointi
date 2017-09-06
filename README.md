@@ -21,7 +21,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 | Vko | Aiheet | Resurssit | Muut |
 |:--------|:----------:|:-----:|---------|
-| 36 | [Kurssijohdanto](https://docs.google.com/presentation/d/1kf7VjF8zOz83BwSxZRKP6eWitM0R6VQ-uZ-IV7IDBqQ/edit?usp=sharing), yhteisen harjoitustyön esittely, Github, GIT | [Linkkejä]() | [Harkka]() |
+| 36 | [Kurssijohdanto](https://docs.google.com/presentation/d/1kf7VjF8zOz83BwSxZRKP6eWitM0R6VQ-uZ-IV7IDBqQ/edit?usp=sharing), Github, GIT, yhteisen harjoitustyön aloittelu | [Linkkejä]() | [Harkka]() |
 | 37 | [Semanttinen rakenne](), HTML5/CSS3 kertaus, Dev-tools, ensipuraisu GITiin | [Linkkejä]() | ... |
 | 38 | [Responsiivinen suunnittelu ja Mobile First periaate, Flexbox]() | [Linkkejä]() | ... |
 | 39 | [CSS-animointi]()  | [Linkkejä]() | ... |
