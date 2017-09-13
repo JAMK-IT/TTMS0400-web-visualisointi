@@ -21,8 +21,8 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 | Vko | Aiheet | Resurssit | Muut |
 |:--------|:----------:|:-----:|---------|
-| 36 | [Kurssijohdanto](https://docs.google.com/presentation/d/1kf7VjF8zOz83BwSxZRKP6eWitM0R6VQ-uZ-IV7IDBqQ/edit?usp=sharing), Github, GIT, yhteisen harjoitustyön aloittelu | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-lista) | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w36) |
-| 37 | [Semanttinen rakenne, HTML5/CSS3 kertaus](), Dev-tools | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-lista) | ... |
+| 36 | [Kurssijohdanto](https://docs.google.com/presentation/d/1kf7VjF8zOz83BwSxZRKP6eWitM0R6VQ-uZ-IV7IDBqQ/edit?usp=sharing), Github, GIT | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-lista) | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w36) |
+| 37 | Yhteisen harjoitustyön aloittelu | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-lista) | ... |
 | 38 | [Responsiivinen suunnittelu ja Mobile First periaate, Flexbox]() | [Linkkejä]() | ... |
 | 39 | [CSS-animointi]()  | [Linkkejä]() | ... |
 | 40 | [Bootstrap]() | [Linkkejä]() | ... |
