@@ -23,19 +23,18 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 |:--------|:----------:|:-----:|---------|
 | 36 | [Kurssijohdanto](https://docs.google.com/presentation/d/1kf7VjF8zOz83BwSxZRKP6eWitM0R6VQ-uZ-IV7IDBqQ/edit?usp=sharing), Github, GIT | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-lista) | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w36) |
 | 37 | Yhteisen harjoitustyön aloittelu, HTML5/CSS3, Semanttinen rakenne, box-sizing, etc.. | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-lista) | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w37) |
-| 38 | [Responsiivinen suunnittelu ja Mobile First periaate, Flexbox]() | [Linkkejä]() | ... |
-| 39 | [CSS-animointi]()  | [Linkkejä]() | ... |
-| 40 | [Bootstrap]() | [Linkkejä]() | ... |
+| 39 | [Responsiivinen suunnittelu ja toteutus](https://docs.google.com/presentation/d/1wCql2wgO2YQ7GBw4fEm3oULUqsH36X8DEhIBf_Ac96s/edit?usp=sharing) | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-list) | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w39) |
+| 40 | [CSS-animointi]()  | [Linkkejä]() | ... |
 | 41 | [Bootstrap]() | [Linkkejä]() | ... |
-| 42 | **Etäopiskeluviikko** | ... | ... |
-| 43 | [Responsiivinen grafiikka](), puolivälipalaute, [oman harjoitustyön aloitus]() | [Linkkejä]() | ... |
-| 44 | [jQuery/js-kikkareet]() | ... | ... |
-| 45 | [Taskrunnerit, SASS/LESS]() | [Linkkejä]() | ... |
-| 46 | ... | [Linkkejä]() | ... |
+| 42 | [Bootstrap]() | [Linkkejä]() | ... |
+| 43 | **Etäopiskeluviikko** | ... | ... |
+| 44 | [Responsiivinen grafiikka](), puolivälipalaute, [oman harjoitustyön aloitus]() | [Linkkejä]() | ... |
+| 45 | [jQuery/js-kikkareet]() | ... | ... |
+| 46 | [Taskrunnerit, SASS/LESS]() | [Linkkejä]() | ... |
 | 47 | ... | [Linkkejä]() | ... |
-| 48 | ... | [Linkkejä]()| ... |
-| 49 | ... | [Linkkejä]() | ... |
+| 48 | ... | [Linkkejä]() | ... |
+| 49 | ... | [Linkkejä]()| ... |
 | 50 | ... | [Linkkejä]() | ... |
-| 51 | ... | ... | ... |
+| 51 | ... | [Linkkejä]() | ... |
 
 **Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
