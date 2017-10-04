@@ -24,8 +24,8 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 36 | [Kurssijohdanto](https://docs.google.com/presentation/d/1kf7VjF8zOz83BwSxZRKP6eWitM0R6VQ-uZ-IV7IDBqQ/edit?usp=sharing), Github, GIT | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-lista) | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w36) |
 | 37 | Yhteisen harjoitustyön aloittelu, HTML5/CSS3, Semanttinen rakenne, box-sizing, etc.. | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-lista) | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w37) |
 | 39 | [Responsiivinen suunnittelu ja toteutus](https://docs.google.com/presentation/d/1wCql2wgO2YQ7GBw4fEm3oULUqsH36X8DEhIBf_Ac96s/edit?usp=sharing) | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-list) | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w39) |
-| 40 | [CSS-animointi]()  | [Linkkejä]() | ... |
-| 41 | [Bootstrap]() | [Linkkejä]() | ... |
+| 40 | [CSS-kirjastot ja frameworkit](), [mockupit]() | [Linkkejä]() | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w40) |
+| 41 | [CSS-animointi]()??, [Bootstrap]() | [Linkkejä]() | ... |
 | 42 | [Bootstrap]() | [Linkkejä]() | ... |
 | 43 | **Etäopiskeluviikko** | ... | ... |
 | 44 | [Responsiivinen grafiikka](), puolivälipalaute, [oman harjoitustyön aloitus]() | [Linkkejä]() | ... |
