@@ -25,7 +25,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 37 | HTML5/CSS3-kertaus, Semanttinen rakenne, box-sizing, etc.. | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-lista) | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w37) |
 | 39 | [Responsiivinen suunnittelu ja toteutus](https://docs.google.com/presentation/d/1wCql2wgO2YQ7GBw4fEm3oULUqsH36X8DEhIBf_Ac96s/edit?usp=sharing) | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-list) | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w39) |
 | 40 | [CSS-kirjastot ja frameworkit](https://docs.google.com/presentation/d/1DxAql8T_0Mihd0elPCZp9Ylh5VklMJMtGpjOAXqxgBk/edit?usp=sharing), [mockupit](https://docs.google.com/presentation/d/1WKp6wWmnFM8aEVPpoSObfb_SdyTLP7wm7mwQYdp1Hj8/edit?usp=sharing) | [Linkkejä]() | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w40) |
-| 41 | Bootstrap: [Miksi?](https://www.youtube.com/watch?v=-8lP4D5e5J4) ja [miten?](https://www.youtube.com/watch?v=5GcQtLDGXy8) | [Linkkejä]() | ... |
+| 41 | Bootstrap: [Miksi](https://www.youtube.com/watch?v=-8lP4D5e5J4) ja [miten?](https://www.youtube.com/watch?v=5GcQtLDGXy8) | [Linkkejä]() | ... |
 | 42 | **Etäopiskeluviikko** | [Linkkejä]() | ... |
 | 43 | Bootstrappia | ... | ... |
 | 44 | [Responsiivinen grafiikka](), puolivälipalaute, [oman harjoitustyön aloitus]() | [Linkkejä]() | ... |
