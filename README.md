@@ -27,7 +27,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 40 | [CSS-kirjastot ja frameworkit](https://docs.google.com/presentation/d/1DxAql8T_0Mihd0elPCZp9Ylh5VklMJMtGpjOAXqxgBk/edit?usp=sharing), [mockupit](https://docs.google.com/presentation/d/1WKp6wWmnFM8aEVPpoSObfb_SdyTLP7wm7mwQYdp1Hj8/edit?usp=sharing) | [Linkkejä]() | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w40) |
 | 41 | Bootstrap: [Miksi](https://www.youtube.com/watch?v=-8lP4D5e5J4) ja [miten?](https://www.youtube.com/watch?v=5GcQtLDGXy8) | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-lista) | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w41) |
 | 42 | **Etäopiskeluviikko** | ... | ... |
-| 43 | Tilannekatsaus, bootstrap-tehtävien jatkaminen | ... | Vko41 jatkuu |
+| 43 | Tilannekatsaus, bootstrap-tehtävien jatkaminen | ... | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w41) |
 | 44 | [Responsiivinen grafiikka](), puolivälipalaute, [oman harjoitustyön aloitus]() | [Linkkejä]() | ... |
 | 45 | [jQuery/js-kikkareet]() | ... | ... |
 | 46 | [Taskrunnerit, SASS/LESS]() | [Linkkejä]() | ... |
