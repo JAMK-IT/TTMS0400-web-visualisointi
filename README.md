@@ -28,8 +28,8 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 41 | Bootstrap: [Miksi](https://www.youtube.com/watch?v=-8lP4D5e5J4) ja [miten?](https://www.youtube.com/watch?v=5GcQtLDGXy8) | [Linkkejä](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-lista) | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w41) |
 | 42 | **Etäopiskeluviikko** | ... | ... |
 | 43 | Tilannekatsaus, bootstrap-tehtävien jatkaminen | ... | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w41) |
-| 44 | [Responsiivinen grafiikka](), puolivälipalaute, [oman harjoitustyön aloitus]() | [Linkkejä]() | ... |
-| 45 | [jQuery/js-kikkareet]() | ... | ... |
+| 44 | **Etäkerta:** [CSS-transitiot ja animaatiot](), puolivälipalaute? | [Linkkejä]() | ... |
+| 45 | [Responsiivinen grafiikka, Illustrator](), puolivälipalaute?, [oman harjoitustyön aloitus]() | ... | ... |
 | 46 | [Taskrunnerit, SASS/LESS]() | [Linkkejä]() | ... |
 | 47 | ... | [Linkkejä]() | ... |
 | 48 | ... | [Linkkejä]() | ... |
