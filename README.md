@@ -29,8 +29,8 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 42 | **Etäopiskeluviikko** | ... | ... |
 | 43 | Tilannekatsaus, bootstrap-tehtävien jatkaminen | ... | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w41) |
 | 44 | **Etäkerta:** [CSS-transitiot ja animaatiot](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/css-animointi), puolivälipalaute? | [Linkkejä]() | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w44) |
-| 45 | [Responsiivinen grafiikka, Inkscape](), puolivälipalaute? [oman harjoitustyön aloitus]() | ... | ... |
-| 46 | [Taskrunnerit, SASS/LESS]() | [Linkkejä]() | ... |
+| 45 | [Responsiivinen grafiikka, Inkscape](), puolivälipalaute | ... | ... |
+| 46 | [Taskrunnerit, SASS/LESS](), [oman harjoitustyön aloitus]()? | [Linkkejä]() | ... |
 | 47 | ... | [Linkkejä]() | ... |
 | 48 | ... | [Linkkejä]() | ... |
 | 49 | ... | [Linkkejä]()| ... |
