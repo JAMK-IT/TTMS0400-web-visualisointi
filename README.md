@@ -30,11 +30,11 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 43 | Tilannekatsaus, bootstrap-tehtävien jatkaminen | ... | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w41) |
 | 44 | **Etäkerta:** [CSS-transitiot ja animaatiot](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/css-animointi) | [Linkkejä]() | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w44) |
 | 45 | [Responsiivinen grafiikka, Inkscape](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/SVG-ja-Inkscape), puolivälipalaute | ... | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/harkat-w45) |
-| 46 | [CSS-esiprosessorit, Node.js](https://docs.google.com/presentation/d/1Pa7DWEgl9uZfwUsMSU4FQha3o8MBhFt-6tb6obXK70k/edit?usp=sharing), oman harjoitustyön aloitus | [Linkkejä]() | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/Harkat-w46) |
-| 47 | ... | [Linkkejä]() | ... |
-| 48 | ... | [Linkkejä]() | ... |
-| 49 | ... | [Linkkejä]()| ... |
-| 50 | ... | [Linkkejä]() | ... |
-| 51 | ... | [Linkkejä]() | ... |
+| 46 | [CSS-esiprosessorit, Node.js](https://docs.google.com/presentation/d/1Pa7DWEgl9uZfwUsMSU4FQha3o8MBhFt-6tb6obXK70k/edit?usp=sharing), oman harjoitustyön aloitus | ... | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/Harkat-w46) |
+| 47 | ... | ... | ... |
+| 48 | ... | ... | ... |
+| 49 | ... | ... | ... |
+| 50 | ... | ... | ... |
+| 51 | ... | ... | ... |
 
 **Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
