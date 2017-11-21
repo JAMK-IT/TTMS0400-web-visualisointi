@@ -10,7 +10,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 ## Kurssimateriaali
 
 - https://www.w3schools.com
-- https://developer.mozilla.org/en-US/docs/Web
+- https://developer.mozilla.org/
 - https://www.udemy.com/learn-responsive-web-development-from-scratch/
 - https://www.udemy.com/sass-workflow/
 - [Linkki-sivulla lisää matskua](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/linkki-lista)
