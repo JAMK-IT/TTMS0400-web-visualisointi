@@ -35,6 +35,6 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 48 | ... | ... | ... |
 | 49 | ... | ... | ... |
 | 50 | ... | ... | ... |
-| 51 | ... | ... | ... |
+| 51 | Harjoitustöiden esitys, loppupalaute | ... | ... |
 
 **Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
