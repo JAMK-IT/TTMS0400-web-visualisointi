@@ -34,7 +34,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 47 | [NPM+GRUNT](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/npm-grunt), harjoitustöiden työstö | ... | ... |
 | 48 | GIT-kertaus, gh-pages, harjoitusten työstö | ... | ... |
 | 49 | ... | ... | ... |
-| 50 | Harjoitusten deadline 15.12. | ... | ... |
+| 50 | **Harjoitusten deadline 15.12. !** | ... | ... |
 | 51 | Harjoitustöiden esitys, loppupalaute | ... | ... |
 
 **Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
