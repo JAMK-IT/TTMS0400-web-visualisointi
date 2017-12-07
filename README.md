@@ -33,7 +33,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 46 | [CSS-esiprosessorit, Node.js](https://docs.google.com/presentation/d/1Pa7DWEgl9uZfwUsMSU4FQha3o8MBhFt-6tb6obXK70k/edit?usp=sharing), oman harjoitustyön aloitus | ... | [Harkat](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/Harkat-w46) |
 | 47 | [NPM+GRUNT](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/npm-grunt), harjoitustöiden työstö | ... | ... |
 | 48 | [Github gh-pages](https://guides.github.com/features/pages/), harjoitusten työstö | ... | ... |
-| 49 | ... | ... | ... |
+| 49 | [Kurssitöiden palautusohje](https://github.com/JAMK-IT/TTMS0400-web-visualisointi/wiki/Palautusohjeet) | ... | ... |
 | 50 | Harjoitustöiden esitys, kurssipalaute. **Harjoitusten deadline 15.12. !** | ... | ... |
 
 **Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
